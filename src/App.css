@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.App ul {
+  padding-left: 0;
+}
+
+.App li {
+  list-style: none;
+  padding: 10px;
+}
+
+.App .thumbUp {
+  cursor: pointer;
+  color: #008000;
+}
+
+.App .thumbDown {
+  cursor: pointer;
+  color: #ff0000;
+}
+
+.App .addComment {
+  margin-top: 50px;
+}
